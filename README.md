@@ -121,6 +121,3 @@ The `schedpong` program tests scheduler responsiveness by measuring context swit
 ## Conclusion
 
 The MLFQ scheduler provides better overall performance for a mix of workloads, particularly for interactive systems where responsiveness is important. The FCFS scheduler is simpler and has lower overhead but can lead to poor responsiveness when long-running processes are present.
-
-The implementation demonstrates the trade-offs between different scheduling algorithms and how they can be tailored to specific workload characteristics.[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gW4p9-Fp)
-# os161SchedulerAssignBaseCode
